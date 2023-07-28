@@ -8,3 +8,6 @@ sig3、sig、deviceInfo、设备注册激活(采集，did、egid)、滑块、采
 # web
 
 did注册激活、滑块、采集全接口demo
+
+# 联系
+https://t.me/CoolNet3
