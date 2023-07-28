@@ -1,2 +1,10 @@
 # kuaishou
 快手、app、web
+
+# app
+
+sig3、sig、deviceInfo、设备注册激活(采集，did、egid)、滑块、采集全接口demo
+
+# web
+
+did注册激活、滑块、采集全接口demo
