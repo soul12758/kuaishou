@@ -1,4 +1,4 @@
-# kuaishou
+# kuaishou  快手设备注册激活
 快手、app、web
 
 # app
