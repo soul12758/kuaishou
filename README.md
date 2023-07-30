@@ -3,7 +3,7 @@
 
 # app
 
-sig3、sig、deviceInfo、设备注册激活(采集，did、egid)、滑块、采集全接口demo
+sig3、sig、deviceInfo、快手设备注册激活(采集，did、egid)、滑块、采集全接口demo
 
 # web
 
